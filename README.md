@@ -1,6 +1,6 @@
 [Sinking of the MV Sewol from Wikipedia](http://en.wikipedia.org/wiki/Sinking_of_the_MV_Sewol)
 
-미안합니다. 잊지않겠습니다.
+미안합니다. 잊지 않겠습니다.
 
 ```
 ................................................................................
